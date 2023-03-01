@@ -1,1 +1,2 @@
-# first-repo minor update
+# first-repo Minor Update
+What's up!
